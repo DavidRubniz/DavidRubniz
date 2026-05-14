@@ -1,16 +1,25 @@
-## Hi there 👋
+# היי, אני דוד רובניץ! 👋
 
-<!--
-**DavidRubniz/DavidRubniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+אני מפתח תוכנה וסטודנט במכינה קדם-צבאית, בה אני מעמיק בעולמות התכנות והאלקטרוניקה. אני אוהב לפתור בעיות מורכבות, ללמוד טכנולוגיות חדשות, ולצלול אל מאחורי הקלעים של מערכות.
 
-Here are some ideas to get you started:
+### 👨‍💻 קצת עליי:
+* 🔭 כרגע אני מתמקד בפיתוח ב-**Python** (כולל OOP וניתוח נתונים) וחוקר שפות מערכת כמו **Rust**, **C**, ו-**Assembly (x86-64)**.
+* 🛡️ מתעניין מאוד בעולמות אבטחת המידע וסייבר, ואוהב לפתור אתגרי **CTF**.
+* ⚙️ יש לי חיבה עזה לסביבות **Linux**, **DevOps**, וקונטיינרים (**Docker**).
+* 🌱 אני תמיד שואף לשפר את הארכיטקטורה של הקוד שלי ולהעמיק בהצפנה (כמו RSA) וברשתות.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ טכנולוגיות וכלים:
+* **שפות תכנות:** Python (Pandas, Matplotlib), C, Rust, x86-64 Assembly.
+* **סביבות עבודה ו-DevOps:** Linux (WSL, Termux), Docker, Git, GitHub.
+* **תחומי עניין טכניים:** מטא-דאטה, רשתות (DNS, IP routing), ואוטומציה.
+
+### 🚀 פרויקטים בולטים:
+* **Image Intel** - מערכת לחילוץ וניתוח מטא-דאטה (EXIF) מתמונות, כולל יצירת צירי זמן וארכיטקטורה מודולרית.
+* **Battle Calculator** - פרויקט מבוסס Python המממש לוגיקת קרבות מורכבת באמצעות מחלקות ומבני נתונים (מילונים).
+
+### 📫 איך ליצור איתי קשר:
+* **אימייל:** d0504140924@gmail.com
+* **לינקדאין:** [הפרופיל שלי ב-LinkedIn](https://www.linkedin.com/in/david-rubniz-b0570b348)
+
+---
+⭐️ *תודה שביקרתם בפרופיל שלי! תרגישו חופשי להסתכל על ה-Repositories שלי.*
